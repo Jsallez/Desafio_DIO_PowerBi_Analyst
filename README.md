@@ -4,11 +4,5 @@ Este projeto foi desenvolvido como parte do Bootcamp de Ciência de Dados da Dig
 O projeto engloba um processo de criação de um relátorio de lucros de uma empresa fictícia, utilizando uma base de dados sample da ferramenta Power Bi. 
 
 
-## Autor:
-*Jonas Salles*
-
 ## Ferramenta utilizada:
 - Power Bi
-
-## Agradecimentos:
-Agradeço à Digital Innovation One pela oportunidade de aprendizado proporcionada pelo Bootcamp de Ciência de Dados.
